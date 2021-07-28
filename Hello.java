@@ -4,6 +4,6 @@ public class Hello {
       System.out.println("mais uma linha");
       System.out.println("mais uma linha");
       System.out.println("mais uma linha");
-      //System.out.println("O argumento é" + args[0]);
+      System.out.println("O argumento é" + args[0]);
    }
 }
